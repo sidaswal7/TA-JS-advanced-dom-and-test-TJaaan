@@ -2,7 +2,7 @@
 
 - Create a drag and drop list
 - You can add new item to the list
-- You should be able to drag and drop the items in the list
+- You should be able to drag and drop the items in the list adfdfds
 - Follow this article (https://web.dev/drag-and-drop/) while creating this drag and drop list
 
 ## DEMO
