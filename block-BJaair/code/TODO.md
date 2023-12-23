@@ -6,7 +6,7 @@
 - Once the notice is added it will be visible on the top
 - Using double click on the title or the category will allow the user to edit the text.
 - When you click outside (blur) of the respective element or press enter the title or category will get updated to the new value.
-- Add local storage support
+- Add local storage supportvxcbvxcvcx
 
 ## Demo
 
